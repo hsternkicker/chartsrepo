@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  myhstchart:
+  - apiVersion: v1
+    created: 2019-06-07T07:37:26.982841+02:00
+    description: A Helm chart for Kubernetes
+    digest: d3f9661239022c867d9b09b3b41124a7ac69d836d0d0a8a71848c2d860fe7ad3
+    name: myhstchart
+    urls:
+    - https://github.com/hsternkicker/chartsrepo/tree/master/stable/myhstchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-07T07:37:26.982385+02:00
